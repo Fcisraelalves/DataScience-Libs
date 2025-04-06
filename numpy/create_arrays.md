@@ -163,5 +163,3 @@ np.random.permutation([1, 2, 3, 4])
 - `x`: Sequência a ser permutada (array, lista ou número inteiro `n` para permutar `np.arange(n)`).
 
 ---
-
-✅ Essas funções são as bases para criar e manipular dados em arrays com o NumPy. É essencial dominá-las antes de avançar para operações mais complexas!
